@@ -1,0 +1,31 @@
+{
+  "name": "require_jssm",
+  "version": "0.1.0",
+  "description": "Use require() to make jssm state machine factories",
+  "main": "require_jssm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/require_jssm.git"
+  },
+  "keywords": [
+    "jssm",
+    "factory",
+    "state",
+    "machine",
+    "fsm",
+    "requre",
+    "hook"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/require_jssm/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/require_jssm#readme",
+  "devDependencies": {
+    "jssm": "^4.7.3"
+  }
+}
