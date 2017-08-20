@@ -1,6 +1,6 @@
 {
   "name": "require_jssm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use require() to make jssm state machine factories",
   "main": "require_jssm.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "url": "https://github.com/StoneCypher/require_jssm/issues"
   },
   "homepage": "https://github.com/StoneCypher/require_jssm#readme",
-  "devDependencies": {
+  "dependencies": {
     "jssm": "^4.7.3"
   }
 }
